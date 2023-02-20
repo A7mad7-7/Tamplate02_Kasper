@@ -239,7 +239,7 @@ header .container .form {
     position: relative;
     min-height: 100vh;
     background-color: black;
-    background-image: url(img/pexels-valiphotos-589840.jpg);
+    background-image: url(/img/pexels-valiphotos-589840.jpg);
     background-size: cover;
 }
 
@@ -419,7 +419,7 @@ header .container .form {
 
 .responsive {
     margin-top: 100px;
-    background-image: url(img/pexels-arshad-sutar-1749303.jpg);
+    background-image: url(/img/pexels-arshad-sutar-1749303.jpg);
     background-size: cover;
     height: 70vh;
     width: 100%;
@@ -850,7 +850,7 @@ header .container .form {
 /* about-end */
 /* Qoute-start */
 .qoute {
-    background-image: url(img/pexels-elīna-arāja-3309775.jpg);
+    background-image: url(/img/pexels-elīna-arāja-3309775.jpg);
     width: 100%;
     height: 50vh;
     background-size: cover;
@@ -1009,7 +1009,7 @@ header .container .form {
 /* price-end */
 /* Subscribe-start */
 .subscribe {
-    background-image: url(img/pexels-cátia-matos-1072179.jpg);
+    background-image: url(/img/pexels-cátia-matos-1072179.jpg);
     background-size: cover;
     padding-top: 60px;
     padding-bottom: 60px;
@@ -1167,7 +1167,7 @@ header .container .form {
 .footer {
     padding-top: 60px;
     padding-bottom: 60px;
-    background-image: url(img/pexels-muffin-creatives-1629998.jpg);
+    background-image: url(/img/pexels-muffin-creatives-1629998.jpg);
     background-size: cover;
     position: relative;
 }
